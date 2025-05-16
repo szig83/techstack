@@ -25,8 +25,6 @@ Ebben a részben összegyűjtöm a Windsurf IDE (VSCode alapú) beállításaima
 A különböző fejlesztési technológiákhoz (pl. PHP, Javascript/Typescript) külön profilokat használok a Windsurf/VSCode-ban. Ez lehetővé teszi, hogy minden projektben a legmegfelelőbb kiegészítők és beállítások legyenek aktívak, így gyorsabban és hatékonyabban tudok dolgozni.
 
 ## Tartalomjegyzék
-- [Általános beállítások (minden profilban közös)](#altalanos-beallitasok-minden-profilban-kozos)
-- [PHP fejlesztési profil](#php-fejlesztes-profil)
-- [Javascript/Typescript fejlesztési profil](#javascripttypescript-fejlesztesi-profil)
-
----
+- [Általános beállítások (minden profilban közös)](altalanos.md)
+- [PHP fejlesztési profil](php.md)
+- [Javascript/Typescript fejlesztési profil](javascripttypescript.md)
