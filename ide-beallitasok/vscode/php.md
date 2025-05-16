@@ -47,7 +47,7 @@ composer global require "friendsofphp/php-cs-fixer"
 
 ### Settings file a PHP fejlesztési profilhoz
 
-A PHP fejlesztési profilhoz tartozó egyéni VSCode/Windsurf profilbeállításokat ebben a fájlban találod: [`vscode/Php.code-profile`](vscode/Php.code-profile). Ez a profil file tartalmaz minden speciális beállítást és workspace konfigurációt, amelyet a PHP-s projektekhez használok.
+A PHP fejlesztési profilhoz tartozó egyéni VSCode/Windsurf profilbeállításokat ebben a fájlban találod: [`configs/Php.code-profile`](configs/Php.code-profile). Ez a profil file tartalmaz minden speciális beállítást és workspace konfigurációt, amelyet a PHP-s projektekhez használok.
 
 ## Profilok
 

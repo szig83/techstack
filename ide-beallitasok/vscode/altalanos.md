@@ -4,7 +4,7 @@ Van néhány beállítás, testreszabás, amit az összes fejlesztési profilban
 
 ## Kinézet
 
-![IDE előnézet](./images/ide-preview.png)
+![IDE előnézet](images/ide-preview.png)
 
 ### Kiegészítők a megjelenéshez
   - Kanagawa Color Theme (`metaphore.kanagawa-vscode-color-theme`)
@@ -13,7 +13,7 @@ Van néhány beállítás, testreszabás, amit az összes fejlesztési profilban
   - Custom Background (egyéni háttér) (`shalldie.background`)
 
   #### Színbeállítások
-  Saját színbeállításokat is készítettem az IDE-hez, amelyet a VSCode settings.json-be lehet beilleszteni. A színkonfiguráció itt található: [`custom-workbench-color.jsonc`](../vscode/custom-workbench-color.jsonc)
+  Saját színbeállításokat is készítettem az IDE-hez, amelyet a VSCode settings.json-be lehet beilleszteni. A színkonfiguráció itt található: [`custom-workbench-color.jsonc`](configs/custom-workbench-color.jsonc)
 
   #### Material Icon Theme beállítások
 
