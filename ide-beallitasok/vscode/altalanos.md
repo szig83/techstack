@@ -47,4 +47,4 @@ Van néhány beállítás, testreszabás, amit az összes fejlesztési profilban
 ## Profilok
 
 - [PHP fejlesztési profil](php.md)
-- [Javascript/Typescript fejlesztési profil](javascripttypescript.md)
+- [Javascript/Typescript fejlesztési profil](js-ts.md)

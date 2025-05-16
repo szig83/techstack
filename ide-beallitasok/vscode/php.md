@@ -52,4 +52,4 @@ A PHP fejlesztési profilhoz tartozó egyéni VSCode/Windsurf profilbeállítás
 ## Profilok
 
 - [Általános beállítások (minden profilban közös)](altalanos.md)
-- [Javascript/Typescript fejlesztési profil](javascripttypescript.md)
+- [Javascript/Typescript fejlesztési profil](js-ts.md)
