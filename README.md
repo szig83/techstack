@@ -4,7 +4,7 @@ Ez a dokumentáció összefoglalja a saját fejlesztési eszközeimet, beállít
 
 ## Tartalomjegyzék
 
-- [IDE beállítások](ide-beallitasok.md)
+- [IDE beállítások](ide-beallitasok/vscode/index.md)
 - [Használt technológiák](technologiak.md)
 - [Telepítési útmutatók](telepitesek.md)
 - [Workflow-k, tippek](workflow-tippek.md)
