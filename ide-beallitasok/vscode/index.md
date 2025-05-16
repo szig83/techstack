@@ -27,4 +27,4 @@ A különböző fejlesztési technológiákhoz (pl. PHP, Javascript/Typescript) 
 ## Tartalomjegyzék
 - [Általános beállítások (minden profilban közös)](altalanos.md)
 - [PHP fejlesztési profil](php.md)
-- [Javascript/Typescript fejlesztési profil](javascripttypescript.md)
+- [Javascript/Typescript fejlesztési profil](js-ts.md)
