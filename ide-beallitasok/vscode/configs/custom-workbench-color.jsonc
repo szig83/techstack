@@ -1,45 +1,45 @@
 {
     "workbench.colorCustomizations": {
-    "activityBar.background": "#181817",                          /* Tevékenységsáv háttérszíne */
-    "activityBar.inactiveForeground": "#797773",                  /* Inaktív tevékenységsáv szövegszíne */
-    "activityBar.border": "#212120",                              /* Tevékenységsáv szegélyének színe */
-    "activityBar.foreground": "#cfb279",                          /* Tevékenységsáv szövegszíne */
-    "activityBar.activeBorder": "#cfb279",                        /* Aktív tevékenységsáv szegélyének színe */
-    "activityBarBadge.background": "#97835c",                     /* Tevékenységsáv jelvény háttérszíne */
-    "sideBar.background": "#181817",                              /* Oldalsáv háttérszíne */
-    "sideBar.border": "#343330",                                  /* Oldalsáv szegélyének színe */
-    "focusBorder": "#252525",                                     /* Fókuszált elem szegélyének színe */
-    "titleBar.activeBackground": "#1a1a1a",                       /* Aktív címsor háttérszíne */
-    "titleBar.activeForeground": "#c7c4c3",                       /* Aktív címsor szövegszíne */
-    "statusBar.background": "#2a2a2a",                            /* Állapotsor háttérszíne */
-    "statusBar.border": "#00000000",                              /* Állapotsor szegélyének színe (átlátszó) */
-    "statusBar.focusBorder": "#00000000",                         /* Fókuszált állapotsor szegélyének színe (átlátszó) */
-    "statusBarItem.hoverForeground": "#ffffff",                   /* Állapotsor elem lebegtetési szövegszíne */
-    "statusBarItem.remoteBackground": "#b89273",                  /* Távoli állapotsor elem háttérszíne */
-    "statusBarItem.hoverBackground": "#b89273",                   /* Állapotsor elem lebegtetési háttérszíne */
-    "sideBarSectionHeader.background": "#00000000",               /* Oldalsáv szakaszcím háttérszíne (átlátszó) */
-    "sideBarSectionHeader.foreground": "#cfb279",                 /* Oldalsáv szakaszcím szövegszíne */
-    "sideBarTitle.background": "#1c1c1c",                         /* Oldalsáv cím háttérszíne */
-    "list.inactiveSelectionBackground": "#31312f",                /* Inaktív lista kijelölés háttérszíne */
-    "list.activeSelectionBackground": "#31312f",                  /* Aktív lista kijelölés háttérszíne */
-    "list.focusAndSelectionOutline": "#31312f",                   /* Lista fókusz és kijelölés körvonalának színe */
-    "list.inactiveSelectionForeground": "#ebebe9",                /* Inaktív lista kijelölés szövegszíne */
-    "list.activeSelectionForeground": "#ebebe9",                  /* Aktív lista kijelölés szövegszíne */
-    "editor.background": "#1c1c1c",                               /* Szerkesztő háttérszíne */
-    "tab.activeBorderTop": "#b89273",                             /* Aktív fül felső szegélyének színe */
-    "terminal.tab.activeBorder": "#b89273",                       /* Aktív terminál fül szegélyének színe */
-    "gitDecoration.untrackedResourceForeground": "#cfb279",       /* Nem követett Git fájlok szövegszíne */
-    "gitDecoration.modifiedResourceForeground": "#cfb279",        /* Módosított Git fájlok szövegszíne */
-    "gitDecoration.addedResourceForeground": "#cfb279",           /* Hozzáadott Git fájlok szövegszíne */
-    "gitDecoration.stageModifiedResourceForeground": "#cfb279",   /* Staged módosított Git fájlok szövegszíne */
-    "gitDecoration.stageDeletedResourceForeground": "#cfb279",    /* Staged törölt Git fájlok szövegszíne */
-    "gitDecoration.deletedResourceForeground": "#cfb279",         /* Törölt Git fájlok szövegszíne */
-    "button.background": "#b89273",                               /* Gomb háttérszíne */
-    "button.hoverBackground": "#b89273ca",                        /* Gomb lebegtetési háttérszíne */
-    "editorLineNumber.activeForeground": "#e8e8e8",               /* Aktív sorszám szövegszíne */
-    "editorLineNumber.foreground": "#787871",                     /* Sorszám szövegszíne */
-    "statusBar.foreground": "#bcbcbc",                            /* Állapotsor szövegszíne */
-    "editor.lineHighlightBackground": "#292929",                  /* Aktuális sor kiemelésének háttérszíne */
-    "editorWhitespace.foreground": "#6a6a6a"                      /* Whitespace karakterek szövegszíne */
-}
+        "activityBar.background": "#181817",                          /* Tevékenységsáv háttérszíne */
+        "activityBar.inactiveForeground": "#797773",                  /* Inaktív tevékenységsáv szövegszíne */
+        "activityBar.border": "#212120",                              /* Tevékenységsáv szegélyének színe */
+        "activityBar.foreground": "#cfb279",                          /* Tevékenységsáv szövegszíne */
+        "activityBar.activeBorder": "#cfb279",                        /* Aktív tevékenységsáv szegélyének színe */
+        "activityBarBadge.background": "#97835c",                     /* Tevékenységsáv jelvény háttérszíne */
+        "sideBar.background": "#181817",                              /* Oldalsáv háttérszíne */
+        "sideBar.border": "#343330",                                  /* Oldalsáv szegélyének színe */
+        "focusBorder": "#252525",                                     /* Fókuszált elem szegélyének színe */
+        "titleBar.activeBackground": "#1a1a1a",                       /* Aktív címsor háttérszíne */
+        "titleBar.activeForeground": "#c7c4c3",                       /* Aktív címsor szövegszíne */
+        "statusBar.background": "#2a2a2a",                            /* Állapotsor háttérszíne */
+        "statusBar.border": "#00000000",                              /* Állapotsor szegélyének színe (átlátszó) */
+        "statusBar.focusBorder": "#00000000",                         /* Fókuszált állapotsor szegélyének színe (átlátszó) */
+        "statusBarItem.hoverForeground": "#ffffff",                   /* Állapotsor elem lebegtetési szövegszíne */
+        "statusBarItem.remoteBackground": "#b89273",                  /* Távoli állapotsor elem háttérszíne */
+        "statusBarItem.hoverBackground": "#b89273",                   /* Állapotsor elem lebegtetési háttérszíne */
+        "sideBarSectionHeader.background": "#00000000",               /* Oldalsáv szakaszcím háttérszíne (átlátszó) */
+        "sideBarSectionHeader.foreground": "#cfb279",                 /* Oldalsáv szakaszcím szövegszíne */
+        "sideBarTitle.background": "#1c1c1c",                         /* Oldalsáv cím háttérszíne */
+        "list.inactiveSelectionBackground": "#31312f",                /* Inaktív lista kijelölés háttérszíne */
+        "list.activeSelectionBackground": "#31312f",                  /* Aktív lista kijelölés háttérszíne */
+        "list.focusAndSelectionOutline": "#31312f",                   /* Lista fókusz és kijelölés körvonalának színe */
+        "list.inactiveSelectionForeground": "#ebebe9",                /* Inaktív lista kijelölés szövegszíne */
+        "list.activeSelectionForeground": "#ebebe9",                  /* Aktív lista kijelölés szövegszíne */
+        "editor.background": "#1c1c1c",                               /* Szerkesztő háttérszíne */
+        "tab.activeBorderTop": "#b89273",                             /* Aktív fül felső szegélyének színe */
+        "terminal.tab.activeBorder": "#b89273",                       /* Aktív terminál fül szegélyének színe */
+        "gitDecoration.untrackedResourceForeground": "#cfb279",       /* Nem követett Git fájlok szövegszíne */
+        "gitDecoration.modifiedResourceForeground": "#cfb279",        /* Módosított Git fájlok szövegszíne */
+        "gitDecoration.addedResourceForeground": "#cfb279",           /* Hozzáadott Git fájlok szövegszíne */
+        "gitDecoration.stageModifiedResourceForeground": "#cfb279",   /* Staged módosított Git fájlok szövegszíne */
+        "gitDecoration.stageDeletedResourceForeground": "#cfb279",    /* Staged törölt Git fájlok szövegszíne */
+        "gitDecoration.deletedResourceForeground": "#cfb279",         /* Törölt Git fájlok szövegszíne */
+        "button.background": "#b89273",                               /* Gomb háttérszíne */
+        "button.hoverBackground": "#b89273ca",                        /* Gomb lebegtetési háttérszíne */
+        "editorLineNumber.activeForeground": "#e8e8e8",               /* Aktív sorszám szövegszíne */
+        "editorLineNumber.foreground": "#787871",                     /* Sorszám szövegszíne */
+        "statusBar.foreground": "#bcbcbc",                            /* Állapotsor szövegszíne */
+        "editor.lineHighlightBackground": "#292929",                  /* Aktuális sor kiemelésének háttérszíne */
+        "editorWhitespace.foreground": "#6a6a6a"                      /* Whitespace karakterek szövegszíne */
+    }
 }
